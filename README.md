@@ -33,7 +33,7 @@
 
 ##Running the code
 
-You can run the code either from command prompt or directly from the jar file.
+You can run the code either from command prompt or directly from the jar file. The below instructions are for Windows machine. Mac/Linux users can use the same commands and replace the '\' in file path with '/'.
 
 ###Command Prompt
 
