@@ -1,9 +1,5 @@
 /*
  * Main : Main method for the game, draws the frame where game is played
- * 
- * Created By:  Zhenghao, Abhijit, Ankit, Jay and Nishant
- * 
- *  Last Edited By: Ankit, Mrunal, Rohith, Nishant and Yash
  */
 
 package com.p532.brickout.main;

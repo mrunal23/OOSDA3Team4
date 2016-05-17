@@ -1,9 +1,6 @@
 /*
  * DeserializeLoad : Handles the file loading from given fileName
  * 
- * Created By:  Ankit, Mrunal, Rohith, Nishant and Yash
- * 
- * Last Edited By: Ankit, Mrunal, Rohith, Nishant and Yash
  */
 
 package com.p532.brickout.impl;

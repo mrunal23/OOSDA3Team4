@@ -1,9 +1,5 @@
 /*
  * SaveGame : Creates a pop up for user input of fileName  and returns fileName for saving file
- * 
- * Created By:  Ankit, Mrunal, Rohith, Nishant and Yash
- * 
- * Last Edited By: Ankit, Mrunal, Rohith, Nishant and Yash
  */
 
 package com.p532.brickout.impl;

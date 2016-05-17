@@ -1,11 +1,6 @@
 /*
- * EventChecker : Interface to check and set in events
- * 
- * Created By:  Zhenghao, Abhijit, Ankit, Jay and Nishant
- * 
- *  Last Edited By: Ankit, Mrunal, Rohith, Nishant and Yash
- */
-
+EventChecker : To check the boundary conditions
+*/
 package com.p532.brickout.intf;
 
 public interface EventChecker 

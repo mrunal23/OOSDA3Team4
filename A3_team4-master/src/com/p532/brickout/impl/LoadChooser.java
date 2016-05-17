@@ -1,9 +1,5 @@
 /*
  * LoadChooser : Shows the files available for load, and lets user choose in a pop up
- * 
- * Created By:  Ankit, Mrunal, Rohith, Nishant and Yash
- * 
- * Last Edited By: Ankit, Mrunal, Rohith, Nishant and Yash
  */
 
 package com.p532.brickout.impl;

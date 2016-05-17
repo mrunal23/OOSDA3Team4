@@ -1,10 +1,6 @@
 /*
- * GameCommand : Interfact with functions to execute and undo commands
- * 
- * Created By:  Zhenghao, Abhijit, Ankit, Jay and Nishant
- * 
- *  Last Edited By: Ankit, Mrunal, Rohith, Nishant and Yash
- */
+ * GameCommand : Interface with functions to execute and undo commands
+  */
 
 package com.p532.brickout.intf;
 

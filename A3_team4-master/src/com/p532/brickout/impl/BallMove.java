@@ -1,10 +1,7 @@
 /*
  * BallMove : Handles executeCommand call for BallMove
  * 
- * Created By:  Zhenghao, Abhijit, Ankit, Jay and Nishant
- * 
- * Last Edited By: Ankit, Mrunal, Rohith, Nishant and Yash
- */
+  */
 
 package com.p532.brickout.impl;
 

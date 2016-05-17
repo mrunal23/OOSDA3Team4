@@ -1,9 +1,6 @@
 /*
  * SerializeSave : Handles the save to file functionality
- * 
- * Created By:  Ankit, Mrunal, Rohith, Nishant and Yash
- * 
- * Last Edited By: Ankit, Mrunal, Rohith, Nishant and Yash
+ *  
  */
 
 package com.p532.brickout.impl;
