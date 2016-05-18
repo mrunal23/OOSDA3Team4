@@ -12,7 +12,7 @@
 
 ##Technolgies used
 
-    The project is developed using Java Swing. 
+    The project is developed using Java Swing. The code uses Java 7.0.
   
 ##Implementation details
 
